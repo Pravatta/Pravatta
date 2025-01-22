@@ -1,8 +1,8 @@
-# Oiii, eu sou o Jonatha Pravatta, desenvolvedor focado em automação e tecnologia! 🚀
+# Olá! Eu sou o Jonatha Pravatta 👋  
 
-Gosto de criar soluções práticas para otimizar processos e tornar sistemas corporativos mais eficientes. Sempre busco maneiras de simplificar tarefas e trazer mais agilidade para o dia a dia das empresas. 🎯  
+Sou desenvolvedor com foco em automação de processos e tecnologia. Meu objetivo é simplificar tarefas e criar soluções que aumentem a eficiência de sistemas corporativos. Combinando lógica e criatividade, busco sempre entregar resultados práticos e impactantes. 🚀  
 
-Se chegou até aqui, sinta-se à vontade para explorar meus projetos e trocar uma ideia comigo!  
+Sinta-se à vontade para explorar meus projetos e conectar-se comigo para trocar ideias ou colaborar em novas iniciativas!  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonatha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
