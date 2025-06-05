@@ -6,7 +6,8 @@ Sinta-se à vontade para explorar meus projetos e conectar-se comigo para trocar
 
 ## 🐍 Snake Contributions
 
-![Snake animation](https://github.com/Pravatta/Pravatta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation (dark)](https://raw.githubusercontent.com/Pravatta/Pravatta/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonatha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
