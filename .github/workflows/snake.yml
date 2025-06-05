@@ -11,14 +11,16 @@ jobs:
 
     steps:
       - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: Pravatta
-          outputs: dist
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: .
           publish_branch: output
