@@ -5,7 +5,6 @@ Sou desenvolvedor com foco em automação de processos e tecnologia. Meu objetiv
 Sinta-se à vontade para explorar meus projetos e conectar-se comigo para trocar ideias ou colaborar em novas iniciativas!  
 
 ### 🐍 Snake Contributions
-
 ![Snake animation (dark)](https://raw.githubusercontent.com/Pravatta/Pravatta/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
