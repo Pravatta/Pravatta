@@ -4,6 +4,10 @@ Sou desenvolvedor com foco em automação de processos e tecnologia. Meu objetiv
 
 Sinta-se à vontade para explorar meus projetos e conectar-se comigo para trocar ideias ou colaborar em novas iniciativas!  
 
+## 🐍 Snake Contributions
+
+![Snake animation](https://github.com/Pravatta/Pravatta/blob/output/github-contribution-grid-snake.svg)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonatha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jonatha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
