@@ -1,25 +1,24 @@
 # 👋 Bem-vindo ao Meu Mundo Tech!
 
-Sou desenvolvedor com foco em automação de processos e tecnologia.  
-Meu objetivo é simplificar tarefas e criar soluções que aumentem a eficiência de sistemas corporativos.  
-Combinando lógica e criatividade, busco sempre entregar resultados práticos e impactantes. 🚀  
+Sou desenvolvedor focado na criação de ecossistemas digitais eficientes. Unindo minha base em Segurança da Informação com o desenvolvimento de Aplicações Modernas (Full Stack), crio soluções que não são apenas funcionais, mas seguras e escaláveis. 🚀
 
 ---
 
 ## 🌐 Sobre Mim
-
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS)
 - 🎓 Formado em Segurança da Informação  
 - 🎓 Pós-graduando em Perícia Forense Computacional  
-- 🤖 Desenvolvedor especializado em automação de processos corporativos  
+- 🤖 Desenvolvedor especializado em automação de processos corporativos com Python
 - 💻 Experiência com Python, automações em ambientes Windows e desenvolvimento web  
-- ⚙️ Crio soluções que reduzem tarefas repetitivas e aumentam a eficiência operacional  
+- ⚙️ Unindo lógica de automação com interfaces modernas e experiências de usuário (UX) 
 
 ---
 
 ## 📚 O Que Estou Aprendendo Atualmente
 
-Atualmente, estou focado em **RPA (Robotic Process Automation)**.  
-Já desenvolvo automações avançadas com **Python** e estou expandindo minhas habilidades para ferramentas líderes de mercado como **UiPath** e **Automation Anywhere**, com o objetivo de potencializar soluções corporativas em larga escala.
+Frontend: Aprofundando em Next.js 14, Tailwind CSS e Framer Motion.
+Backend & DB: Arquiteturas com Supabase (PostgreSQL) e integração de APIs.
+RPA: Continuando a expansão em automações avançadas com ferramentas como UiPath e ferramentas de mercado.
 
 ---
 
